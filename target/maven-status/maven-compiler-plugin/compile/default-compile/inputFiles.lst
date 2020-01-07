@@ -1,3 +1,5 @@
-/home/renan.neri/workspace-estudos/neri/src/main/java/com/neri/springboot/entity/User.java
-/home/renan.neri/workspace-estudos/neri/src/main/java/com/neri/springboot/entity/Role.java
-/home/renan.neri/workspace-estudos/neri/src/main/java/com/neri/springboot/NeriApplication.java
+/home/renan.neri/workspace-estudos/neri-mongodb/src/main/java/com/neri/springboot/entity/User.java
+/home/renan.neri/workspace-estudos/neri-mongodb/src/main/java/com/neri/springboot/repository/UserRepository.java
+/home/renan.neri/workspace-estudos/neri-mongodb/src/main/java/com/neri/springboot/entity/Role.java
+/home/renan.neri/workspace-estudos/neri-mongodb/src/main/java/com/neri/springboot/NeriApplication.java
+/home/renan.neri/workspace-estudos/neri-mongodb/src/main/java/com/neri/springboot/config/DataInitializr.java
